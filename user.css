@@ -1,0 +1,111 @@
+.footer .contact i{
+	color:yellow;
+}
+.footer{
+	margin-top: auto;
+	background: linear-gradient(to top, #0033cc 0%, #003366 100%);
+
+}
+.footer1{
+	background: linear-gradient(to bottom, #0033cc 0%, #003366 100%);
+}
+.footer h3 , p , span{
+	color: white;
+	text-align: justify;
+}
+.footer1 p{
+	color: yellow;
+}
+.footer .row .sosmed .wa{
+	color: #00ff00;
+}
+.footer .row .sosmed .fb{
+	color: #ffffff;
+}
+.contact_us .row p{
+	text-align: center;
+	color: black;
+}
+.contact_us h1{
+	font-family: cursive;
+	color: black;
+}
+.mousehover:hover{
+	background-color: orange;
+}
+.contact_us .card-bawah .card-header{
+	font-weight: bold;
+	font-size: 18px;
+}
+.contact_us .row .card{
+	height: 15rem;
+}
+.contact_us .row .card-body i{
+	color: black;
+}
+.contact_us .row{
+	margin-bottom: 2rem;
+}
+.faq p{
+	color: black;
+}
+.faq h1{
+	font-family: cursive;
+	color: black;
+}
+.faq{
+	margin-bottom: 7em;
+}
+.card-text{
+	color: black;
+}
+.buka_lowongan h1{
+	font-family: cursive;
+}
+.cari_kerja{
+	margin-bottom: 2em;
+}
+.cari_kerja h2{
+	font-family: cursive;
+}
+.cari_pekerja{
+	margin-bottom: 8em;
+}
+.cari_pekerja h1{
+	font-family: cursive;
+}
+.lihat_lowongan{
+	margin-bottom: 5em;
+}
+.lihat_lowongan h1{
+	font-family: cursive;
+}
+.profil_pekerja{
+	margin-bottom: 8em;
+}
+.lihat_lowongan .card-text{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.card-header{
+	border-bottom :1px solid black;
+}
+.navbar{
+	 background: linear-gradient(to bottom, #0033cc 0%, #003366 100%);
+}
+.navbar-profil{
+	background: transparent;
+}
+.nav-link{
+	color: white;
+}
+.nav-link:hover{
+	color: orange;
+}
+.navbar .navbar-brand{
+	color: white;
+}
+.detail_lowongan{
+	margin-bottom: 6em;
+}
